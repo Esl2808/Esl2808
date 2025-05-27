@@ -8,12 +8,12 @@
 - ⚙️ Visual Studio Code | XAMPP  
 
 - 💞️ I’m looking to collaborate on proyets ...
-- - **Tienda virtual (HTML/CSS/JS/PHP)** – Catálogo de productos, carrito de compras, diseño responsive.
+-  **Tienda virtual (HTML/CSS/JS/PHP)** – Catálogo de productos, carrito de compras, diseño responsive.
 - **Formulario de contacto dinámico** – Validación con JavaScript y envío simulado.
 - **Blog personal (maquetación estática)** – Proyecto académico con diseño responsive.
 - 📫 How to reach me luna-jada2011@hotmail.com ...
 
-- - Frameworks frontend como **React.js**
+-  Frameworks frontend como **React.js**
 - Uso de APIs REST y JSON
 - Buenas prácticas en desarrollo web
 - Patrones de diseño y arquitectura MVC..
